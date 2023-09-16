@@ -1,2 +1,3 @@
 # Srgi-cse
-my first program
+my first programme
+author -ashish parel
